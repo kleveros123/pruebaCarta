@@ -1,3 +1,5 @@
 Este es una primera práctica utilizando el software de control de versiones GIT.
 
 Estoy haciendo pruebas con el programa de GIT y estoy utilizando los comandos básicos de GIT.
+
+hola  mundo :v
